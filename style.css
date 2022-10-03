@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 3px;
+}
+
+h1 {
+    text-align: center;
+}
+
+legend {
+    font-size: 30px;
+}
+
+label{
+    font-size: 20px;
+}
+
